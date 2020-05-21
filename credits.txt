@@ -1,0 +1,4 @@
+Part of this project are also few open source libraries:
+jQuery Javascript Framework: http://jquery.com
+jPlayer jQuery plugin: http://jplayer.org/
+Control Panel Icons: http://fortawesome.github.io/Font-Awesome/
